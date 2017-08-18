@@ -4,12 +4,12 @@ h3 {
 }
 
 .jumbotron {
-  background-image: url( "/home/njoroge/Desktop/moringa/Game-Time/img/bats.jpg");
+  background-image: url( "../img/bats.jpg");
   color: purple;
 }
 
 button {
-  background-image: url("/home/njoroge/Desktop/moringa/Game-Time/img/screamingleperchaun.jpg");
+  background-image: url("../img/screamingleperchaun.jpg");
   padding-bottom: 10px;
   padding-left: 10px;
   margin-bottom: 180px;
