@@ -1,9 +1,5 @@
 # Game-Time
 This is a fun webpage. You get to play with numbers. Input a number and the computer will give you some fun responses.
-<<<<<<< HEAD
-=======
-
->>>>>>> c4a15711518edce41e2882ce19a63ddbe8a57134
 
 # Setup/Installation Requirements
 
@@ -28,8 +24,4 @@ For comments, concerns, ideas or other contribution to this website, you can rea
 MIT
 
 Copyright (c) 2017 Njoroge Mungai
-<<<<<<< HEAD
-=======
-=======
 
->>>>>>> c4a15711518edce41e2882ce19a63ddbe8a57134
